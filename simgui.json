@@ -1,0 +1,26 @@
+{
+  "HALProvider": {
+    "Other Devices": {
+      "window": {
+        "visible": false
+      }
+    }
+  },
+  "NTProvider": {
+    "types": {
+      "/AdvantageKit/RealOutputs/Pivot/Mechanism2d/Measured": "Mechanism2d",
+      "/FMSInfo": "FMSInfo",
+      "/Shuffleboard/Auto Chooser/Auto Chooser": "String Chooser",
+      "/Shuffleboard/Auto Chooser/SendableChooser[1]": "String Chooser",
+      "/SmartDashboard/AprilTagLayout": "String Chooser"
+    }
+  },
+  "NetworkTables": {
+    "Persistent Values": {
+      "open": false
+    }
+  },
+  "NetworkTables Info": {
+    "visible": true
+  }
+}
